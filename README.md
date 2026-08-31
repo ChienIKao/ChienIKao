@@ -29,6 +29,7 @@ algorithms, and running the infrastructure that puts large language models into 
 
 ## Awards
 
+- 🥇 **1st Place, Shipping & Logistics Track** — AI Everywhere Hackathon, **AWS Summit Taipei 2026** (challenge set by Yang Ming Marine Transport)
 - 🥇 **1st Place (National)** — 3rd NCHC HiPAC Application Performance Optimization Contest
 - 🥉 **3rd Place (National)** — 4th NCHC HiPAC Application Performance Optimization Contest
 - 🏆 **Excellent Paper Award** — TCGA 2025
@@ -36,6 +37,7 @@ algorithms, and running the infrastructure that puts large language models into 
 - 🥉 **Bronze** — 2025 NCHU Programming Contest (Advanced Category)
 - **4th Place** — ICGA Computer Olympiad & TCGA Computer Game Tournament, Chinese Dark Chess
 - **Finalist** — InnoServe · IMBD · NCPC · ITSA · ICPC Asia Taoyuan Regional
+- **Participant** — 2026 Generative AI Hackathon, Taiwan (challenge set by President Information Corp.)
 
 ---
 
@@ -66,9 +68,8 @@ algorithms, and running the infrastructure that puts large language models into 
 | Project | Description |
 | --- | --- |
 | [iMarine-rag-backend](https://github.com/ChienIKao/iMarine-rag-backend) | Grounded maritime-policy QA and report generation — every claim cites its retrieved source, so the model cannot invent regulation · Python · RAG |
-| [hullwatch](https://github.com/ChienIKao/hullwatch) | Hull-fouling efficiency monitoring for a shipping fleet: speed-loss detection, cleaning ROI and a Bedrock AI advisor · FastAPI · React · XGBoost · AWS Bedrock |
-| [AIWave](https://github.com/ChienIKao/AIWave) | Community life-services platform with a shared transaction core, points ledger and partner OpenAPI — solo-authored, 44 commits · Python · React |
-| [DataMining-final-project](https://github.com/ChienIKao/DataMining-final-project) | Mobility mining on 111 M trajectory records / 100 K users: HDBSCAN hotspot discovery, CVAE trajectory generation, GEO-BLEU evaluation · Python · PyTorch |
+| [hullwatch](https://github.com/ChienIKao/hullwatch) | Hull-fouling efficiency monitoring for a shipping fleet: speed-loss detection, cleaning ROI and a Bedrock AI advisor · **1st place, AWS Summit Taipei 2026 Hackathon** · FastAPI · React · XGBoost · AWS Bedrock |
+| [AIWave](https://github.com/ChienIKao/AIWave) | Community life-services platform with a shared transaction core, points ledger and partner OpenAPI — solo-authored, 44 commits · 2026 Generative AI Hackathon · Python · React |
 | [CDC_MCTS_MGTP](https://github.com/ChienIKao/CDC_MCTS_MGTP) | Chinese Dark Chess engine — MCTS over a stochastic game tree · 4th place, ICGA Computer Olympiad & TCGA · C++ |
 | [quizzz](https://github.com/ChienIKao/quizzz) | Multi-subject exam practice platform with LaTeX rendering · [Live demo](https://quizzz-cbu7ev2vvpwtdxdupqztta.streamlit.app/) · Streamlit |
 
@@ -77,4 +78,4 @@ algorithms, and running the infrastructure that puts large language models into 
 
 ---
 
-📫 **alen911018@gmail.com** · [Blog](https://chienikao.github.io/) · [LinkedIn](https://linkedin.com/in/chien-i-kao)
+📫 **alen911018@gmail.com** · [Blog](https://chienikao.github.io/) · [LinkedIn](https://www.linkedin.com/in/chien-i-kao)
