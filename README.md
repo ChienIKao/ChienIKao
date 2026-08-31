@@ -74,9 +74,6 @@ algorithms, and running the infrastructure that puts large language models into 
 | [dark-chess-mcts](https://github.com/ChienIKao/dark-chess-mcts) | Chinese Dark Chess engine — parallel MCTS (UCT + OpenMP) over a stochastic game tree · C++ |
 | [quizzz](https://github.com/ChienIKao/quizzz) | Multi-subject exam practice platform with LaTeX rendering · [Live demo](https://quizzz-cbu7ev2vvpwtdxdupqztta.streamlit.app/) · Streamlit |
 
-> `hullwatch`, `imarine-policy-rag` and `aiwave-community-platform` were developed at
-> **NCHU ICTALab**; see each README for my role and collaborators.
-
 ---
 
 📫 **alen911018@gmail.com** · [Blog](https://chienikao.github.io/) · [LinkedIn](https://www.linkedin.com/in/chien-i-kao)
