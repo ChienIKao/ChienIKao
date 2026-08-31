@@ -21,7 +21,7 @@ algorithms, and running the infrastructure that puts large language models into 
 
 ## Research
 
-- **Excellent Paper Award** — Chien-I Kao and Kuo-Chan Huang, *A New Logic-Rule-Based Method for Solving Nonograms*, **TCGA 2025** Workshop on Computer Games (first author)
+- **Excellent Paper Award** — Chien-I Kao and Kuo-Chan Huang, *A New Logic-Rule-Based Method for Solving Nonograms*, **TCGA 2025** Workshop on Computer Games (first author) · [code](https://github.com/ChienIKao/nonogram-logic-rule-solver)
 - Yi-En Chang, Yu-Hsun Hung, Hsing-Yu Chen, **Chien-I Kao**, et al., *A Sustainable Online Learning Platform for After-Class Peer Learning*, **AACE eLearn 2024**, Singapore
 - **Principal Investigator** — NSTC Undergraduate Research Grant `113-2813-C-142-002-E`, on optimizing the backtracking phase of Nonogram solving
 
@@ -67,6 +67,7 @@ algorithms, and running the infrastructure that puts large language models into 
 
 | Project | Description |
 | --- | --- |
+| [nonogram-logic-rule-solver](https://github.com/ChienIKao/nonogram-logic-rule-solver) | Logic-rule inference that fixes cells and detects contradictions before backtracking on an NP-Complete puzzle · **Excellent Paper Award, TCGA 2025** · C++ |
 | [imarine-policy-rag](https://github.com/ChienIKao/imarine-policy-rag) | Grounded maritime-policy QA and report generation — every claim cites its retrieved source, so the model cannot invent regulation · Python · RAG |
 | [hullwatch](https://github.com/ChienIKao/hullwatch) | Hull-fouling efficiency monitoring for a shipping fleet: speed-loss detection, cleaning ROI and a Bedrock AI advisor · **1st place, AWS Summit Taipei 2026 Hackathon** · FastAPI · React · XGBoost · AWS Bedrock |
 | [aiwave-community-platform](https://github.com/ChienIKao/aiwave-community-platform) | Community life-services platform with a shared transaction core, points ledger and partner OpenAPI — solo-authored, 44 commits · 2026 Generative AI Hackathon · Python · React |
