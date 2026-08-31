@@ -67,10 +67,10 @@ algorithms, and running the infrastructure that puts large language models into 
 
 | Project | Description |
 | --- | --- |
-| [iMarine-rag-backend](https://github.com/ChienIKao/iMarine-rag-backend) | Grounded maritime-policy QA and report generation — every claim cites its retrieved source, so the model cannot invent regulation · Python · RAG |
+| [imarine-policy-rag](https://github.com/ChienIKao/imarine-policy-rag) | Grounded maritime-policy QA and report generation — every claim cites its retrieved source, so the model cannot invent regulation · Python · RAG |
 | [hullwatch](https://github.com/ChienIKao/hullwatch) | Hull-fouling efficiency monitoring for a shipping fleet: speed-loss detection, cleaning ROI and a Bedrock AI advisor · **1st place, AWS Summit Taipei 2026 Hackathon** · FastAPI · React · XGBoost · AWS Bedrock |
-| [AIWave](https://github.com/ChienIKao/AIWave) | Community life-services platform with a shared transaction core, points ledger and partner OpenAPI — solo-authored, 44 commits · 2026 Generative AI Hackathon · Python · React |
-| [CDC_MCTS_MGTP](https://github.com/ChienIKao/CDC_MCTS_MGTP) | Chinese Dark Chess engine — MCTS over a stochastic game tree · 4th place, ICGA Computer Olympiad & TCGA · C++ |
+| [aiwave-community-platform](https://github.com/ChienIKao/aiwave-community-platform) | Community life-services platform with a shared transaction core, points ledger and partner OpenAPI — solo-authored, 44 commits · 2026 Generative AI Hackathon · Python · React |
+| [dark-chess-mcts](https://github.com/ChienIKao/dark-chess-mcts) | Chinese Dark Chess engine — parallel MCTS (UCT + OpenMP) over a stochastic game tree · C++ |
 | [quizzz](https://github.com/ChienIKao/quizzz) | Multi-subject exam practice platform with LaTeX rendering · [Live demo](https://quizzz-cbu7ev2vvpwtdxdupqztta.streamlit.app/) · Streamlit |
 
 > `hullwatch`, `imarine-policy-rag` and `aiwave-community-platform` were developed at
