@@ -29,6 +29,7 @@ algorithms, and running the infrastructure that puts large language models into 
 
 ## Awards
 
+- 🥇 **1st Place, Student Division (National)** — 6th Maritime and Port Big Data Creative Application Competition, **Maritime and Port Bureau, MOTC 2026** · team SpaceY · [policy-RAG module](https://github.com/ChienIKao/imarine-policy-rag)
 - 🥇 **1st Place, Shipping & Logistics Track** — AI Everywhere Hackathon, **AWS Summit Taipei 2026** (challenge set by Yang Ming Marine Transport)
 - 🥇 **1st Place (National)** — 3rd NCHC HiPAC Application Performance Optimization Contest
 - 🥉 **3rd Place (National)** — 4th NCHC HiPAC Application Performance Optimization Contest
@@ -68,7 +69,7 @@ algorithms, and running the infrastructure that puts large language models into 
 | Project | Description |
 | --- | --- |
 | [nonogram-logic-rule-solver](https://github.com/ChienIKao/nonogram-logic-rule-solver) | Logic-rule inference that fixes cells and detects contradictions before backtracking on an NP-Complete puzzle · **Excellent Paper Award, TCGA 2025** · C++ |
-| [imarine-policy-rag](https://github.com/ChienIKao/imarine-policy-rag) | Grounded maritime-policy QA and report generation — every claim cites its retrieved source, so the model cannot invent regulation · Python · RAG |
+| [imarine-policy-rag](https://github.com/ChienIKao/imarine-policy-rag) | Grounded maritime-policy QA and report generation — every claim cites its retrieved source, so the model cannot invent regulation · **1st place, 6th Maritime & Port Big Data Competition (national, student division)** · Python · pgvector · RAG |
 | [hullwatch](https://github.com/ChienIKao/hullwatch) | Hull-fouling efficiency monitoring for a shipping fleet: speed-loss detection, cleaning ROI and a Bedrock AI advisor · **1st place, AWS Summit Taipei 2026 Hackathon** · FastAPI · React · XGBoost · AWS Bedrock |
 | [aiwave-community-platform](https://github.com/ChienIKao/aiwave-community-platform) | Community life-services platform with a shared transaction core, points ledger and partner OpenAPI — solo-authored, 44 commits · 2026 Generative AI Hackathon · Python · React |
 | [dark-chess-mcts](https://github.com/ChienIKao/dark-chess-mcts) | Chinese Dark Chess engine — parallel MCTS (UCT + OpenMP) over a stochastic game tree · C++ |
