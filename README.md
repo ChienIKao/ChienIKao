@@ -8,6 +8,8 @@ B.S. in Computer Science and Engineering, National Taichung University of Educat
 
 My experience covers agent development and evaluation, AI platform deployment, LLM applications, machine learning research, and algorithm research with supercomputer cluster tuning.
 
+---
+
 ### Experience
 
 **NCHC | LLM DevOps Intern**　Mar 2025 – Present
@@ -23,12 +25,16 @@ My experience covers agent development and evaluation, AI platform deployment, L
 - Implemented RAG and source-grounded report generation for a flood early-warning system MVP.
 - Applied AutoEncoder-based unsupervised representation learning to human mobility records.
 
+---
+
 ### Publications
 
 1. **Chien-I Kao** and Kuo-Chan Huang, *A New Logic-Rule-Based Method for Solving Nonograms*, **TCGA 2025** Workshop on Computer Games. (first author; paper award) · [code](https://github.com/ChienIKao/nonogram-logic-rule-solver)
 2. Yi-En Chang, Yu-Hsun Hung, Hsing-Yu Chen, **Chien-I Kao**, et al., *A Sustainable Online Learning Platform for After-Class Peer Learning*, **AACE eLearn 2024**, Singapore.
 
 NSTC Undergraduate Research Project (`113-2813-C-142-002-E`, advisor Prof. Kuo-Chan Huang): compared three backtracking strategies for Nonogram solving.
+
+---
 
 ### Awards
 
@@ -41,6 +47,8 @@ NSTC Undergraduate Research Project (`113-2813-C-142-002-E`, advisor Prof. Kuo-C
 - 2023 | ICPC Asia Taoyuan Regional (63/102); Honorable Mention — National College Industry-Academia Innovation Competition (AI Group)
 - Finalist — InnoServe (2025), IMBD (2025), NCPC (2023, 2024), ITSA (2023)
 - Participant — AIWave Generative AI Hackathon (AWS Taiwan × DIGITIMES), 2026
+
+---
 
 ### Featured Projects
 

@@ -8,6 +8,8 @@
 
 我的經驗涵蓋 agent 開發與評測、AI 平臺部署、LLM 應用、機器學習研究，以及演算法研究與超級電腦叢集效能調校。
 
+---
+
 ### 經歷
 
 **國家高速網路與計算中心（NCHC）｜LLM DevOps 實習生**　2025.03–至今
@@ -23,12 +25,16 @@
 - 參與淹水預警系統 MVP 開發，實作 RAG 與具來源依據（Grounding）的報告生成。
 - 以 AutoEncoder 對民眾空間活動資料進行非監督式表徵學習。
 
+---
+
 ### 研究著作
 
 1. **Chien-I Kao** and Kuo-Chan Huang, *A New Logic-Rule-Based Method for Solving Nonograms*, **TCGA 2025** Workshop on Computer Games.（第一作者，最佳論文獎）· [程式碼](https://github.com/ChienIKao/nonogram-logic-rule-solver)
 2. Yi-En Chang, Yu-Hsun Hung, Hsing-Yu Chen, **Chien-I Kao**, et al., *A Sustainable Online Learning Platform for After-Class Peer Learning*, **AACE eLearn 2024**, Singapore.
 
 國科會大專學生研究計畫（`113-2813-C-142-002-E`，指導教授：黃國展）：比較 Nonogram 回溯階段的三種搜尋策略。
+
+---
 
 ### 競賽與獲獎
 
@@ -41,6 +47,8 @@
 - 2023｜ICPC 亞洲區桃園站 第 63／102 名；全國大專院校產學創新實作競賽 AI 組佳作
 - 決賽：InnoServe（2025）、IMBD（2025）、NCPC（2023、2024）、ITSA（2023）
 - 參賽：2026 AIWave 雲湧智生臺灣生成式 AI 應用黑客松（AWS Taiwan × DIGITIMES）
+
+---
 
 ### 精選專案
 
