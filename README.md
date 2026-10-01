@@ -4,7 +4,7 @@
 
 **M.S. student in Computer Science and Engineering, National Chung Hsing University (NCHU)** · ICTALab<br>
 **LLM DevOps Intern, National Center for High-performance Computing (NCHC)**<br>
-B.S. in Computer Science and Engineering, National Taichung University of Education · GPA 3.9 / 4.3 · Top 12%
+B.S. in Computer Science, National Taichung University of Education · GPA 3.9 / 4.3 · Top 12%
 
 My experience covers agent development and evaluation, AI platform deployment, LLM applications, machine learning research, and algorithm research with supercomputer cluster tuning.
 
