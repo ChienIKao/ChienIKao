@@ -29,7 +29,7 @@
 
 ### 研究著作
 
-1. **Chien-I Kao** and Kuo-Chan Huang, *A New Logic-Rule-Based Method for Solving Nonograms*, **TCGA 2025** Workshop on Computer Games.（第一作者，最佳論文獎）· [程式碼](https://github.com/ChienIKao/nonogram-logic-rule-solver)
+1. **Chien-I Kao** and Kuo-Chan Huang, *A New Logic-Rule-Based Method for Solving Nonograms*, **TCGA 2025** Workshop on Computer Games.（第一作者，佳作論文獎）· [程式碼](https://github.com/ChienIKao/nonogram-logic-rule-solver)
 2. Yi-En Chang, Yu-Hsun Hung, Hsing-Yu Chen, **Chien-I Kao**, et al., *A Sustainable Online Learning Platform for After-Class Peer Learning*, **AACE eLearn 2024**, Singapore.
 
 國科會大專學生研究計畫（`113-2813-C-142-002-E`，指導教授：黃國展）：比較 Nonogram 回溯階段的三種搜尋策略。

@@ -29,7 +29,7 @@ My experience covers agent development and evaluation, AI platform deployment, L
 
 ### Publications
 
-1. **Chien-I Kao** and Kuo-Chan Huang, *A New Logic-Rule-Based Method for Solving Nonograms*, **TCGA 2025** Workshop on Computer Games. (first author; paper award) · [code](https://github.com/ChienIKao/nonogram-logic-rule-solver)
+1. **Chien-I Kao** and Kuo-Chan Huang, *A New Logic-Rule-Based Method for Solving Nonograms*, **TCGA 2025** Workshop on Computer Games. (first author; Honorable Mention Paper Award) · [code](https://github.com/ChienIKao/nonogram-logic-rule-solver)
 2. Yi-En Chang, Yu-Hsun Hung, Hsing-Yu Chen, **Chien-I Kao**, et al., *A Sustainable Online Learning Platform for After-Class Peer Learning*, **AACE eLearn 2024**, Singapore.
 
 NSTC Undergraduate Research Project (`113-2813-C-142-002-E`, advisor Prof. Kuo-Chan Huang): compared three backtracking strategies for Nonogram solving.
